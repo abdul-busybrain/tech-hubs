@@ -294,6 +294,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Cirkle Labs](https://cirklelabs.com/)
   2 Elizabeth St. Agba Road , Ilorin
 
+- [Pacifylabs](https://pacifylabs.tech/)]
+  Ven. Adefila House, Lajorin, Ilorin.
+
 ## Lagos
 
 - [360 Creative Hub](http://www.360creativehub.com/)
